@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "dndmod:adamant_block",
+    "dndmod:raw_adamant_block",
+    "dndmod:adamant_ore",
+    "dndmod:deepslate_adamant_ore"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "adamant_ingot",
+  "ingredient": {
+    "item": "dndmod:raw_adamant"
+  },
+  "result": {
+    "id": "dndmod:adamant_ingot"
+  }
+}

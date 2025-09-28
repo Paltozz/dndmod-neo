@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "adamant_ingot",
+  "ingredient": {
+    "item": "dndmod:adamant_ore"
+  },
+  "result": {
+    "id": "dndmod:adamant_ingot"
+  }
+}

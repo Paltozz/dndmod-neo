@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+  {
+    "item": "dndmod:raw_adamant_block"
+  }
+],
+  "result": {
+    "count": 9,
+    "id": "dndmod:raw_adamant"
+  }
+}

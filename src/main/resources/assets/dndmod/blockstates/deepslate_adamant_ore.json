@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "dndmod:block/adamant_ore"
+      "model": "dndmod:block/deepslate_adamant_ore"
     }
   }
 }
