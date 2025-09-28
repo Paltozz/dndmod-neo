@@ -15,6 +15,11 @@ public class ModItems {
     public static final DeferredItem<Item> OWLBEAR_CLAW = ITEMS.register("owlbear_claw",
             () -> new Item(new Item.Properties()));
 
+    public static final DeferredItem<Item> RAW_ADAMANT = ITEMS.register("raw_adamant",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> ADAMANT_INGOT = ITEMS.register("adamant_ingot",
+            () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
